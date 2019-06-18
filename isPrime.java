@@ -15,7 +15,7 @@ public class isPrime {
 
       System.out.println("Prime");
     	
-    	
+    }    	
 //Better
 //    	while(counter<=n/2) { // till n/2 because no root after half anyway 
 //    		if (n%counter==0) {
@@ -37,4 +37,4 @@ public class isPrime {
 //    	}
 //    	System.out.println("Prime");
     }
-}
+
