@@ -1,5 +1,5 @@
 
-public class PrintDecreasing {
+public class RecursionPrintDecreasing {
     public static void main(String[] args) {
     	printDecreasing(5);
     }
