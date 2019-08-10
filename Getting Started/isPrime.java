@@ -5,7 +5,7 @@ public class isPrime {
     	int counter=2; // Checking from 2 (1 divides every number anyway)
 
 //BEST
-    	while(counter*counter<=n) { // till square root of 'n' because after that root begins to repeat
+    	while(counter*counter<=n) { // till square root of 'n' because after that roots begins to repeat
     		if (n%counter==0) {
     			System.out.println("Not prime");
     		    return;
