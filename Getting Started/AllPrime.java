@@ -19,27 +19,6 @@ public class AllPrime {
            }
    checknum++;  	
    }
- }    	
+ }
+}    
     
-//Better
-//    	while(counter<=n/2) { // till n/2 because no root after half anyway 
-//    		if (n%counter==0) {
-//    			System.out.println("Not prime");
-//    		    return;
-//    		}
-//    		counter++;
-//    	}
-
-//    	System.out.println("Prime");
-    	
-    	
-// SIMPLEST   	while(counter<=n-1) { // till n-1 (because every no. divides itself)
-//    		if (n%counter==0) {
-//    			System.out.println("Not prime");
-//    		    return;
-//    		}
-//    		counter++;
-//    	}
-//    	System.out.println("Prime");
-    }
-
