@@ -3,7 +3,7 @@ public class RecursionDisplayIfNumberIsInArrayOrNot {
    
 	public static void main(String[] args) {
 		int[] arr =  {5,3,9,12};
-		System.out.print(InItOrNot(arr,10,0));
+		System.out.print(InItOrNot(arr,5,0));
 	}
 	
 	public static boolean InItOrNot(int[] arr,int data,int vindex) {
